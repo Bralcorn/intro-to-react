@@ -5,3 +5,5 @@
 2. JSX can include expressions.
 
 3. React only updates the elements that need updating.
+
+4. Components can be written as a function or a ES6 class.
